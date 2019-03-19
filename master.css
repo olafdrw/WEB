@@ -72,6 +72,12 @@ nav ul li a {
   padding: 0 20px;
 }
 
+.link {
+  position: relative;
+  display: inline-block;
+  outline: none
+}
+
 .link:after {
     position: absolute;
     top: 90%;
